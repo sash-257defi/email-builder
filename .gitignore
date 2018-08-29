@@ -5,7 +5,7 @@ dist
 upload
 deploy.log
 package-lock.json
-**/mailgun.js
+secrets.json
 
 # Compiled source #
 ###################
